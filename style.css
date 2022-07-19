@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+#container-left {
+  width: 25%;
+  height: 88%;
+}
+
+#container-right {
+  width: 75%;
+}
+
+#search {
+  width: 60%;
+}
+
+.hide {
+  display: none;
+}
